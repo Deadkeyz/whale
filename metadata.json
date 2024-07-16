@@ -1,0 +1,9 @@
+{
+"name":"Whale Lee",
+  "symbol":"$Ploof",
+  "description":"YES test",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/whale/main/whale.jpg",
+  "websites":[{"label":"Website","url":"https://whale.com"}],
+  "socials":[{"url":"https://x.com/whale","type":"twitter"},
+  {"url":"https://t.me/whale","type":"telegram"}]
+}
